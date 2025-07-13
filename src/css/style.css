@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.title__colored {
+    color: #f9bf3b;
+    font-size: 41px;
+    line-height: 41px;
+}
+
+.title__big {
+    color: #ffffff;
+    font-size: 80px;
+    line-height: 80px;
+}
+
+.promo {
+    min-height: 800px;
+    background: url('../img/main-bg.jpeg') center center / cover no-repeat;
+    padding: 22px 0 53px 0;
+}
+
+.logo__img {
+    display: block;
+    margin: 0 auto;
+}
+
+.logo__text { /* Your favorite radio */
+    color: #ffffff;
+    margin-top: 13px;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.promo h1 { /* Create your own radio station! */
+    margin-top: 52px;
+}
+
+.promo h2 { /* It's simple! + It's much harder to do it right!*/
+    margin-top: 12px;
+}
+
+.promo__text { /* More than 500 new radio stations */
+    color: #ffffff;
+    text-align: center;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    margin-top: 20px;
+}
+
+.promo__text span {
+    
+}
